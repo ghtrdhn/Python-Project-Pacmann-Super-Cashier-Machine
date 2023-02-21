@@ -1,4 +1,4 @@
-# Python Project: Supepr Cashier Machine
+# Python Project: Super Cashier Machine
 
 ## A. Project Background
 Andi adalah pemilik supermarket besar di salah satu kota di Indonesia. Andi memiliki rencana untuk meningkatkan usahanya, dengan membuat sistem kasir swalayan di supermarket miliknya. Dengan menggunakan kasir swalayan, pelanggan dapat menambahkan barang yang dibeli, jumlah barang yang dibeli, harga barang yang dibeli dan menggunakan fitur lainnya. Dengan demikian, pelanggan dapat membeli barang dari supermarket dari jarak jauh. Setelah melakukan riset, Andi menyadari bahwa dirinya membutuhkan bantuan seorang Programmer untuk membuat dan memastikan sistem kasir swalayan ini dapat berjalan dengan lancar.
