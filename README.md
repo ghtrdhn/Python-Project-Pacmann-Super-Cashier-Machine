@@ -61,6 +61,8 @@ Resetting transaction\
 <img src="img/Test3_process.png" width="500"/>
 
 ### Test Case 4: Calculating Total price
+Items in shopping cart\
+<img src="img/Test4_problem.png" width="500"/>
 Calculating total price\
 <img src="img/Test4_result.png" width="500"/>
 
