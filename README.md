@@ -53,7 +53,7 @@ Adding an item to shopping cart\
 Checking the shopping cart\
 <img src="img/Test1_check.png" width="500"/>
 
-Deleting "Pasta gigi"\
+Deleting "Buku Learning Python"\
 <img src="img/Test2_process.png" width="500"/>
 
 ### Test Case 3: Resetting transaction
